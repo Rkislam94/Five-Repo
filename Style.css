@@ -1,6 +1,26 @@
+.to{
+    color: dodgerblue;
+}
+
 h1{
     text-align: center; width: 50%;
     background-color: aqua;
     border-radius: 50px;
 
+}
+
+h2{
+
+    text-align: center; width: 40%;
+    background-color: darkorchid;
+    border: rgb(255, 183, 0);
+    border-radius: 50px;
+
+}
+
+p{
+    text-align: center;
+    text-align: justify;
+    color: crimson;
+    size: 25px;
 }
